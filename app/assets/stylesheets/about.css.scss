@@ -1,3 +1,41 @@
-// Place all the styles related to the About controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.masthead-intro,
+.masthead-heading {
+  text-align: center;
+}
+
+.masthead {
+    padding: 6em 0;
+     border: 3px;
+    
+     
+}
+
+.masthead-heading {
+    margin-bottom: 0.1em;
+    color: #ffffff;
+    font-family: Molengo;
+    font-size: 50px;
+}
+
+.masthead-intro {
+    margin-top: 2em;
+    font-family: Lekton;
+    font-size: 25px;
+     color: #ffffff;
+   }
+
+.info h2 {
+  text-align: center;
+   color: #C93B0C;
+   font-family: Molengo;
+}
+
+.info {
+  float: left;
+  width: 30%;
+  margin-left: 30px;
+  font-family: Lekton;
+  color: #C93B0C;
+}
+
+
