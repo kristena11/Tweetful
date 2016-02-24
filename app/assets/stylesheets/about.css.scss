@@ -6,6 +6,10 @@
 .masthead {
     padding: 6em 0;
      border: 3px;
+     background-image: url(sunset-landscape-1082088_1920.jpg);
+    background-position: left;
+     background-repeat: no-repeat;
+    
     
      
 }
@@ -14,19 +18,22 @@
     margin-bottom: 0.1em;
     color: #ffffff;
     font-family: Molengo;
-    font-size: 50px;
+    font-size: 80px;
+    text-shadow: 4px 4px #000000;
+    
 }
 
 .masthead-intro {
     margin-top: 2em;
     font-family: Lekton;
     font-size: 25px;
-     color: #ffffff;
+    color: #ffffff;
+    text-shadow: 2px 2px #000000;
    }
 
 .info h2 {
   text-align: center;
-   color: #C93B0C;
+   color: #000000;
    font-family: Molengo;
 }
 
@@ -35,7 +42,12 @@
   width: 30%;
   margin-left: 30px;
   font-family: Lekton;
-  color: #C93B0C;
+  color: #000000;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
+.footer{
+    text-align: center;
+}
 
